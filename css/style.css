@@ -52,8 +52,10 @@ header .container {
 }
 
 
-/* main content */
 
+
+
+/* main content */
 
 main .container {
   flex-wrap: wrap;
