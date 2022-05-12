@@ -21,7 +21,7 @@ main {
   height: 80vh;
   width: 100vw;
   overflow: auto;
-  padding: 20px;
+  padding: 10px 30px;
   background-color: #000;
 }
 
@@ -49,8 +49,12 @@ main .container {
 
 .card {
   width: calc(100% / 7);
-  height: 100px;
+  padding: 3px;
+}
+
+.member-info {
   background-color: #b3b3b3;
+  height: 100px;
 }
 
 
